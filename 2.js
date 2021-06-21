@@ -1,2 +1,2 @@
-var text = prompt("Say Something");
- document.getElementById("greeting").innerHTML = "Greetings, " + text + "!";
+var username = prompt ('What is your name?');
+alert (username);
